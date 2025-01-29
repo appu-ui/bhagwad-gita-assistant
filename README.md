@@ -1,7 +1,7 @@
 # 🕉️ Bhagavad-Gita-Assistant-Deepseek-R1
 Qdrant Binary Quantization + Deepseek R1 + LlamaIndex Core => One hell of the application 
 
-An intelligent conversational assistant powered by Deep Learning that helps users understand and explore the teachings of the Bhagavad Gita. The assistant can comprehend and respond in multiple languages including English, Hindi, and Sanskrit.
+An intelligent conversational assistant powered by Deepseek that helps users understand and explore the teachings of the Bhagavad Gita. The assistant can comprehend and respond in multiple languages including English, Hindi, and Sanskrit.
 
 <img width="575" alt="Screenshot 2025-01-29 at 04 23 33" src="https://github.com/user-attachments/assets/73e0f930-7b7f-4b37-826c-a49ac06d9fdc" />
 
